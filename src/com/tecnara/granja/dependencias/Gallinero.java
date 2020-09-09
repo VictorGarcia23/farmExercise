@@ -73,4 +73,7 @@ public class Gallinero {
         return numeroDePavos;
     }
 
+    public Gallina sacarGallina() {
+        return sacarGallina();
+    }
 }

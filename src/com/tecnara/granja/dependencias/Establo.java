@@ -71,4 +71,8 @@ public class Establo {
 
         return numeroDeCaballos;
     }
+
+    public Vaca sacarVaca() {
+        return sacarVaca();
+    }
 }
